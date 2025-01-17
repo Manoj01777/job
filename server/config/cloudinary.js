@@ -10,4 +10,4 @@ const connectCloudinary = () => {
     console.log("Cloudinary configuration successful!");
 };
 
-export default connectCloudinary;
+export default connectCloudinary; 
